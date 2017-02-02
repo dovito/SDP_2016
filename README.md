@@ -1,6 +1,6 @@
 # SDP-2016
 
-Group members: Dove, Krassy, James, Tom, Karen, and Paul.
+Group members: Dovile, Krassy, James, Tom, Karen, and Paul.
 ![](https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif)
 ![](https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif)
 
