@@ -1,10 +1,9 @@
 # SDP-2016 
 
 Group members: Dovile, Krassy, James, Tom, Karen, and Paul. And of course, robot Velosso!
-![](/figures/catch.gif)
-![](/figures/kick.gif)
-
+## Kicking: 
 <img src="https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif" width="500">
+## Catching:
 <img src="https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif" width="300" height="500">
 
 
