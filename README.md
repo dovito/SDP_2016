@@ -2,6 +2,8 @@
 
 Group members: Dove, Krassy, James, Tom, Karen, and group manager Paul.
 
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
 # To integrate vision
 Go to your local version of this repo in the terminal. Then
@@ -12,3 +14,7 @@ If that doesn't work, get down on your knees and pray to the gods of stack overf
 
 # To run
 Find your `SDP-2016/vision` folder and write `python sender.py -t bright_blue -b red -p 1` in terminal to start the camera, then, in a different terminal, go to `SDP-2016/planning` and do `python strategy.py`.
+
+# Flowchart of architecture
+![alt tag](https://github.com/dovito/SDP_2016/blob/master/figures/flowchart.png)
+
