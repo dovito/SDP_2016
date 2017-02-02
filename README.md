@@ -2,9 +2,11 @@
 
 Group members: Dovile, Krassy, James, Tom, Karen, and Paul. And of course, robot Velosso!
 ![](/figures/catch.gif)
-![](https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif)
+![](/figures/kick.gif)
 
-<img src="https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif" width="300">
+<img src="https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif" width="500">
+<img src="https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif" width="300" height="650">
+
 
 # To integrate vision
 Go to your local version of this repo in the terminal. Then
