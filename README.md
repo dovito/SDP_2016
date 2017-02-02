@@ -1,8 +1,10 @@
 # SDP-2016 
 
 Group members: Dovile, Krassy, James, Tom, Karen, and Paul. And of course, robot Velosso!
-![](https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif)
+![](/figures/catch.gif)
 ![](https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif)
+
+<img src="https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif" width="300">
 
 # To integrate vision
 Go to your local version of this repo in the terminal. Then
