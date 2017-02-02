@@ -1,9 +1,8 @@
 # SDP-2016
 
-Group members: Dove, Krassy, James, Tom, Karen, and group manager Paul.
-
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+Group members: Dove, Krassy, James, Tom, Karen, and Paul.
+![](https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif)
+![](https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif)
 
 # To integrate vision
 Go to your local version of this repo in the terminal. Then
