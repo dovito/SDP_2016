@@ -5,7 +5,7 @@ Group members: Dovile, Krassy, James, Tom, Karen, and Paul. And of course, robot
 ![](/figures/kick.gif)
 
 <img src="https://github.com/dovito/SDP_2016/blob/master/figures/kick.gif" width="500">
-<img src="https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif" width="300" height="650">
+<img src="https://github.com/dovito/SDP_2016/blob/master/figures/catch.gif" width="300" height="500">
 
 
 # To integrate vision
