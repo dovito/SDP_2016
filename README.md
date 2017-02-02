@@ -12,3 +12,6 @@ If that doesn't work, get down on your knees and pray to the gods of stack overf
 
 # To run
 Find your `SDP-2016/vision` folder and write `python sender.py -t bright_blue -b red -p 1` in terminal to start the camera, then, in a different terminal, go to `SDP-2016/planning` and do `python strategy.py`.
+
+# Flowchart of architecture
+![alt tag](https://raw.githubusercontent.com/dovito/SDP_2016/edit/master/figures/flowchart.png)
